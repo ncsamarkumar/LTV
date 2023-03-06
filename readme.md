@@ -20,6 +20,6 @@ Ford__Chevrolet_VINs.xlsx: Have all the VIN_ID for which the code will get the d
 
 For any suggestions or queries please connect to me:
 
-N C S Amar Kumar
-Mail: ncsamarkumar@gmail.com
-Ph: +91 888 58 10751
+N C S Amar Kumar <br>
+Mail: ncsamarkumar@gmail.com <br>
+Ph: +91 888 58 10751 <br>
